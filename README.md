@@ -7,3 +7,8 @@ My inspiration comes from an arcade game called Battle City, where the game map 
 The colors used by Mondrian in his works are very vivid and bright. He mainly uses three primary colors: red, yellow, and blue. It reminds me that most of Google's app logo designs also use this color palette.
 
 ![An image of Google apps logo design](https://t4.ftcdn.net/jpg/05/89/22/37/240_F_589223719_UYrXFIOsMxs3RRMnxqIQIiUvkmPuDLnG.jpg)
+
+## Coding Technique
+I want to use random(colors, weights) to set a weight for each color, so that I can assign colors to color blocks according to the set probability.
+
+![An gif of random color design](https://happycoding.io/tutorials/p5js/images/random-29.gif)

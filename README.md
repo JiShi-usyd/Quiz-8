@@ -9,6 +9,7 @@ The colors used by Mondrian in his works are very vivid and bright. He mainly us
 ![An image of Google apps logo design](https://t4.ftcdn.net/jpg/05/89/22/37/240_F_589223719_UYrXFIOsMxs3RRMnxqIQIiUvkmPuDLnG.jpg)
 
 ## Coding Technique
+My idea is to first draw 10 thick horizontal and vertical lines, but randomly place them on the canvas, then divide these lines into squares of different colors, and finally draw 20 rectangles of limited size that appear randomly in the entire picture.
 I want to use random(colors, weights) to set a weight for each color, so that I can assign colors to color blocks according to the set probability.
 
 ![An gif of random color design](https://happycoding.io/tutorials/p5js/images/random-29.gif)
